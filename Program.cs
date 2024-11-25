@@ -29,8 +29,6 @@ if (app.Environment.IsDevelopment())
 
 app.UseCors("AllowAny");
 
-app.UseHttpsRedirection();
-
 app.UseAuthorization();
 
 app.MapControllers();

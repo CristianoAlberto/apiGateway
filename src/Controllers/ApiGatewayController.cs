@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using apiGateway.src.Interfaces;
-using apiGateway.src.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace apiGateway.src.Controllers
